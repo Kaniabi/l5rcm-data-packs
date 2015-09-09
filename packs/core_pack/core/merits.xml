@@ -301,7 +301,7 @@
       <Exception tag="monk" value="5"/>
     </Rank>
     <Modifiers>
-      <Modifier type="wdmg" dtl="jiujutso" value="0k1">The Damage Rolls for your unarmed attacks are increased by +0k1.</Modifier>
+      <Modifier type="wdmg" dtl="jiujutsu" value="0k1">The Damage Rolls for your unarmed attacks are increased by +0k1.</Modifier>
     </Modifiers>
   </Merit>
   <Merit type="physical" id="large" rule="large" name="Large">

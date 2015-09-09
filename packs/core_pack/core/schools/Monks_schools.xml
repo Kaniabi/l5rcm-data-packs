@@ -219,7 +219,7 @@ other effects that allow you to roll or keep additional
 dice on unarmed damage.
         </Description>
         <Modifiers>
-          <Modifier type="wdmg" dtl="jiujutso" value="0k1">You gain a +0k1 bonus to all damage rolls stemming from unarmed attacks.</Modifier>
+          <Modifier type="wdmg" dtl="jiujutsu" value="0k1">You gain a +0k1 bonus to all damage rolls stemming from unarmed attacks.</Modifier>
         </Modifiers>
       </Tech>
     </Techs>
