@@ -53,6 +53,10 @@
       <MasteryAbility rank="5">Free Raise toward initiating a Grapple.</MasteryAbility>
       <MasteryAbility rank="7">+0k1 to damage of all unarmed attacks.</MasteryAbility>
     </MasteryAbilities>
+    <MasteryModifiers>
+      <MasteryModifier rank="3" type="wdmg" dtl="jiujutso" value="1k0">+1k0 to damage of all unarmed attacks.</MasteryModifier>
+      <MasteryModifier rank="7" type="wdmg" dtl="jiujutso" value="0k1">+0k1 to damage of all unarmed attacks.</MasteryModifier>
+    </MasteryModifiers>
   </SkillDef>
   <SkillDef trait="agility" type="bugei" id="chain_weapons" name="Chain Weapons">
     <Tags>
